@@ -13,14 +13,14 @@
 &emsp; 4. *Deploying Spring Boot Application to AWS* 
 
 - :calendar: I'm aiming to finish my projects by *August 2024*. 
-- 👯 I’m looking for / Ready for Software Engineering Role Challenges!
+- 👯 I’m looking for / Ready for Software Engineering or Relate Role Challenges!
 
 - 📫 How to reach me:  
   &emsp; &emsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yap-tat-hong/)
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
-  &emsp; &emsp; <a href="https://www.linkedin.com/in/yap-tat-hong/" target="_blank">Visit LinkedIn</a>
+  &emsp; &emsp; <a href="https://www.linkedin.com/in/yap-tat-hong/" target="_blank">Click Here or Badge for LinkedIn</a>
 
 ## :computer: My Technical Skill:    
 [![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
