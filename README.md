@@ -1,6 +1,10 @@
 ### HELLO WORLD! 👋 :heartpulse:This is Thomas Yap:grinning: `Open to Work` :mailbox_with_mail:
 
-## About Me
+## Background
+- :yellow_heart: Eager to learn, High Adapbility, Great Communicator, Team Player Spirit and Care People which graduated at USM Engineering at Penang Malaysia in Bachelor Degree of Electrical Engineering with final CGPA 3.7 ou of 4.0
+- :fire: Great Passion and interest in dynamic Technologies, continuos learning by taking courses during offwork time to enhance my expertise and technical skills.
+- :office: Dedicated Product Engineer with 1.2 years of experience in Micron Singapore Semicon Industry.
+- :rocket: Transitioned into Building Management System Project Sales Engineer, demonstrating a proactive and adaptable approach to career growth.
 - :black_nib:I’m currently working on self-enrichment SpringBoot Project.
 - :memo: I’m currently learning to build  
 &emsp; 1. *Web application with Spring and Spring Boot*  
@@ -12,7 +16,7 @@
 - 👯 I’m looking for / Ready for Software Engineering Role Challenges!
 
 - 📫 How to reach me:  
-  &emsp; &emsp; ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  &emsp; &emsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yap-tat-hong/)
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
