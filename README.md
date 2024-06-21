@@ -1,7 +1,7 @@
 ### HELLO WORLD! 👋 :heartpulse:This is Thomas Yap:grinning: `Open to Work` :mailbox_with_mail:
 
 ## Background
-- :yellow_heart: Eager to learn, High Adapbility, Great Communicator, Team Player Spirit and Care People which graduated at USM Engineering at Penang Malaysia in Bachelor Degree of Electrical Engineering with final CGPA 3.7 ou of 4.0
+- :yellow_heart: Eager to learn, High Adapbility, Great Communicator, Team Player Spirit and Care People which graduated at USM Engineering at Penang Malaysia in Bachelor Degree of Electrical Engineering with final CGPA 3.7 out of 4.0
 - :fire: Great Passion and interest in dynamic Technologies, continuos learning by taking courses during offwork time to enhance my expertise and technical skills.
 - :office: Dedicated Product Engineer with 1.2 years of experience in Micron Singapore Semicon Industry.
 - :rocket: Transitioned into Building Management System Project Sales Engineer, demonstrating a proactive and adaptable approach to career growth.
