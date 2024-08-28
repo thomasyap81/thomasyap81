@@ -1,4 +1,4 @@
-### HELLO WORLD! 👋 :heartpulse:This is Thomas Yap:grinning: `Open to Work` :mailbox_with_mail:
+### HELLO WORLD! 👋 This is Thomas Yap:grinning: `Open to Work` :mailbox_with_mail:
 
 ## Background
 - :yellow_heart: Eager to learn, High Adapbility, Great Communicator, Team Player Spirit and Care People which graduated at USM Engineering at Penang Malaysia in Bachelor Degree of Electrical Engineering with final CGPA 3.7 out of 4.0
