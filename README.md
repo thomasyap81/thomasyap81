@@ -12,7 +12,7 @@
 &emsp; 3. *Full stack application with Spring, Spring Boot, React and Spring Security*  
 &emsp; 4. *Deploying Spring Boot Application to AWS* 
 
-- :calendar: I'm aiming to finish my projects by *August 2024*. 
+- :calendar: I'm aiming to finish my projects by *2024*. 
 - 👯 I’m looking for IT Role Challenges!
 
 - 📫 How to reach me:  
