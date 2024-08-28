@@ -13,7 +13,7 @@
 &emsp; 4. *Deploying Spring Boot Application to AWS* 
 
 - :calendar: I'm aiming to finish my projects by *August 2024*. 
-- 👯 I’m looking for / Ready for Software Engineering / Data Analyst or Relate Role Challenges!
+- 👯 I’m looking for IT Role Challenges!
 
 - 📫 How to reach me:  
   &emsp; &emsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yap-tat-hong/)
